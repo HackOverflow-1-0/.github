@@ -1,6 +1,7 @@
 # HackOverflow 💻
 
-A National level hackathon organized by the Department of Computer Engineering at PHCET. Join us for 3 days of coding, creating, and collaboration!
+A National level hackathon organized by the Department of Computer Engineering at PHCET. <br> 
+Join us for 3 days of coding, creating, and collaboration!
 
 ## Project Status 🚧
 
