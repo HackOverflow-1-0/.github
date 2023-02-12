@@ -5,23 +5,17 @@ A National level hackathon organized by the Department of Computer Engineering a
 ## Project Status 🚧
 
 ### App
-- Status: In Development 🟡
+- **Status:** In Production 🟢
+
+<a href='https://phcet.tech/app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='185' height='70'/></a>
 
 ### Web
-- Status: In Development 🟡
+- **Status:** In Production 🟢
 
+[hack-overflow.tech](http://hack-overflow.tech/)
+
+<br>
+<br>
+<br>
 
 🚀 Stay tuned for updates and more information about the event in coming week! 
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
